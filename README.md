@@ -16,7 +16,7 @@ Requires tensorflow==1.15
 
 ![input image](results/final_output_1.bmp)
 
-Image super resolution using Deep Neural Networks in Tensorflow. 
 
 PSNR compared to ground truth 
 
+`The PSNR of GT and Output iss 20.746992960220606, the PSNR of GT and Blurred Image is 20.497630173285614`
